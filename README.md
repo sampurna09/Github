@@ -1,2 +1,2 @@
 # Github
-simple program to calculate Tax of income using spring boot(web/themleaf), javascript,css
+simple complete program to calculate income tax using spring boot(web/themleaf), javascript,css
